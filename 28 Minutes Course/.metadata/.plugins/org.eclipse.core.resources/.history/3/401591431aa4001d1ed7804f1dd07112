@@ -1,0 +1,12 @@
+package com.in28minutes.springboot.myfirstwebapp.login;
+
+import org.springframework.stereotype.Controller;
+
+@Controller
+public class LoginController {
+
+	public String gotoLoginPage() {
+		return "login"; // coming from application.properties - fills in name between prefix and suffix 
+	}
+
+}
