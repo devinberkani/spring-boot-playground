@@ -1,5 +1,0 @@
-#server.port=8081
-# /src/main/resources/META-INF/resources/WEB-INF/jsp/sayHello.jsp
-logging.level.=DEBUG
-spring.mvc.view.prefix=/WEB-INF/jsp/
-spring.mvc.view.suffix=.jsp

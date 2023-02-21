@@ -1,4 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<session version="1.0">
-<refactoring comment="Delete resource &apos;registration-login-spring-boot-security-thymeleaf&apos;" deleteContents="false" description="Delete resource &apos;registration-login-spring-boot-security-thymeleaf&apos;" element1="/registration-login-spring-boot-security-thymeleaf" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1675770815044"/>
-</session>

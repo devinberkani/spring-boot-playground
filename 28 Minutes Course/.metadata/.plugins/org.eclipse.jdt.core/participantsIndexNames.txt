@@ -1,5 +1,0 @@
-INDEX VERSION 1.131
-/Users/devinberkani/Desktop/28 Minutes Course/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/2084948359.index
-/myfirstwebapp/src/main/java
-/Users/devinberkani/Desktop/28 Minutes Course/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/974853348.index
-/myfirstwebapp/src/main/java
